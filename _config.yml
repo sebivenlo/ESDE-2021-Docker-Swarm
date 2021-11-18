@@ -1,6 +1,0 @@
-remote_theme: pmarsceill/just-the-docs
-logo: "/assets/images/logo.png"
-aux_links:
-  "Docker Swarm Workshop on GitHub":
-    - "//github.com/sebivenlo/ESDE-2021-Docker-Swarm"
-color_scheme: dark
